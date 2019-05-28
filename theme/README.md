@@ -1,7 +1,4 @@
-# Wordpress
-WordPress Starter Template
-
-## Basic Structure
+## Style.css for a Theme
 WordPress uses the header comment section of a style.css to display information about the theme in the Appearance (Themes) dashboard panel.
 
 ### Example
