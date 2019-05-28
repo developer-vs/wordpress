@@ -1,6 +1,5 @@
-# Wordpress
-WordPress Starter Template
+# WordPress Starter Templates
 
-## Basic Structure
+## Style.css for a Theme
 
 ## Style.css for a Child Theme
