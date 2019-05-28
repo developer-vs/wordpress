@@ -1,0 +1,2 @@
+# wordpress
+WordPress Starter Template
