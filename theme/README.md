@@ -38,3 +38,8 @@ Items indicated with (*) are required for a theme in the WordPress Theme Reposit
 - Domain Path: Used so that WordPress knows where to find the translation when the theme is disabled. Defaults to /languages.
 
 After the required header section, style.css can contain anything a regular CSS file has.
+
+
+#### Theme Tags
+Here is a list of all of the tags that a theme can use and what the theme needs to fulfill to be allowed to use the tag.
+https://make.wordpress.org/themes/handbook/review/required/theme-tags/
