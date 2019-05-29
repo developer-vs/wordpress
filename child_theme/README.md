@@ -8,3 +8,4 @@ Theme Name: My Child Theme
 Template: Twenty Seventeen
 */
 ```
+https://make.wordpress.org/training/handbook/lesson-plans/theme-school/child-themes/child-themes-twentyseventeen/
