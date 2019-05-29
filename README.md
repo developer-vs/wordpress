@@ -6,4 +6,4 @@
 
 #### The Right Way enqueueing Stylesheet files and Javascript files
 
-#### The Right Way enqueueing Bootstap
+#### The Right Way enqueueing Bootstrap
