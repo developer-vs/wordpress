@@ -2,18 +2,27 @@
 
 ### functions.php
 
-#### Registers navigation menu locations for a theme. 
-
- - register_nav_menus( array $locations = array() )
-
+ - register_nav_menus( array $locations = array() ) -> registers navigation menu locations for a theme. 
+ 
+ ```php
+ register_nav_menus(
+    array (
+      'main_menu' => 'Main Menu',
+      'footer_menu' => 'Footer Menu'
+    )
+  );
+ ```
 https://developer.wordpress.org/reference/functions/register_nav_menus/
 
 
-### index.php
+### header.php, footer.php
 
-#### Displays a navigation menu.
+- wp_nav_menu( array $args = array() ) -> displays a navigation menu.
 
- - wp_nav_menu( array $args = array() )
+ ```php
+ <nav class="main-menu col-md-10 text-right">
+   <?php wp_nav_menu(array('theme_location' => 'main_menu')); ?>
+ </nav>
+ ```
  
- https://developer.wordpress.org/reference/functions/wp_nav_menu/
-
+https://developer.wordpress.org/reference/functions/wp_nav_menu/
