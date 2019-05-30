@@ -19,9 +19,9 @@ https://developer.wordpress.org/reference/functions/register_nav_menus/
 
 - wp_nav_menu( array $args = array() ) -> displays a navigation menu.
 
- ```php
+ ```html
  <nav class="main-menu col-md-10 text-right">
-   <?php wp_nav_menu(array('theme_location' => 'main_menu')); ?>
+  <?php wp_nav_menu(array('theme_location' => 'main_menu')); ?>
  </nav>
  ```
  
