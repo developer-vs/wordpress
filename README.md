@@ -9,3 +9,5 @@
  - The Right Way enqueueing Bootstrap
  
  - The WP Menu Creation
+ 
+ - Display the posts
