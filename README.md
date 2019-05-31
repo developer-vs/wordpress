@@ -13,3 +13,5 @@
  - Display the posts
  
  - Template pages. Example 1
+ 
+ - Template pages. Example 2
