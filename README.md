@@ -11,3 +11,5 @@
  - The WP Menu Creation
  
  - Display the posts
+ 
+ - Template pages. Example 1

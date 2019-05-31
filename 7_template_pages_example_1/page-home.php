@@ -1,4 +1,4 @@
-  <?php get_header(); ?>
+<?php get_header(); ?>
     <div class="content-area">
       <main>
         <section class="slide">
@@ -15,7 +15,9 @@
           <div class="container">
             <div class="row">
               <aside class="sidebar col-md-3">Sidebar</aside>
-              <div class="news col-md-9">News</div>
+              <div class="news col-md-9">
+                <p>This will be the news area of the Home Page</p>
+              </div>
             </div>
           </div>          
         </section>
