@@ -26,17 +26,27 @@ Return Values<br>
    ) );
   }
  ```
+#### register_nav_menus
 https://codex.wordpress.org/Function_Reference/register_nav_menus
-
 https://developer.wordpress.org/reference/functions/register_nav_menus/
 
+#### after_setup_theme
+https://codex.wordpress.org/Plugin_API/Action_Reference/after_setup_theme
 
+Description<br>
+This hook is called during each page load, after the theme is initialized. It is generally used to perform basic setup, registration, and init actions for a theme.
+
+Usage
+```php
+<?php add_action( 'after_setup_theme', 'function_name' ); ?>
+```
+where "function_name" is the name of the function to be called.
 
 
 ### header.php, footer.php
 
 Use wp_nav_menu() to display your custom menu.
- https://developer.wordpress.org/reference/functions/wp_nav_menu/
+https://developer.wordpress.org/reference/functions/wp_nav_menu/
 
 - wp_nav_menu( array $args = array() )
 
