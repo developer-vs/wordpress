@@ -32,6 +32,7 @@ https://developer.wordpress.org/reference/functions/register_nav_menus/
 
 #### after_setup_theme
 https://codex.wordpress.org/Plugin_API/Action_Reference/after_setup_theme
+https://developer.wordpress.org/reference/hooks/after_setup_theme/
 
 Description<br>
 This hook is called during each page load, after the theme is initialized. It is generally used to perform basic setup, registration, and init actions for a theme.
