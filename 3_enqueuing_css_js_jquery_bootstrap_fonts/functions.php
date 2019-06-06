@@ -21,13 +21,4 @@
   }
 
   add_action('wp_enqueue_scripts', 'load_scripts');
-  
  
-  function register_custom_nav_menus() {
-    register_nav_menus( array(
-      'main_menu' => 'Main Menu',
-      'footer_menu' => 'Footer Menu',
-    ) );
-  }
-  
-  add_action( 'after_setup_theme', 'register_custom_nav_menus' );
