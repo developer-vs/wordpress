@@ -3,8 +3,15 @@
 
 ### Bootstrap
 Bootstrap, the world’s most popular framework for building responsive, mobile-first sites.
+
+BootstrapCDN on StackShare
+https://www.bootstrapcdn.com
+
+BootstrapCDN
+https://getbootstrap.com/docs/4.3/getting-started/download/#bootstrapcdn
+
+Bootstrap Getting Started
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
-https://www.bootstrapcdn.com/fontawesome/
 
 
 ### Font Awesome
